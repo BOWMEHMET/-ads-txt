@@ -1,1 +1,1 @@
-# -ads-txt
+google.com, pub-3750326637056214, DIRECT, f08c47fec0942fa0
